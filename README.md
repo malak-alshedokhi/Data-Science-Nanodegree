@@ -1,3 +1,3 @@
 # Data-Science-Nanodegree
 
-![](imagges/DS.png)
+![](images/DS.png)
