@@ -25,6 +25,9 @@ Analysis folder: contain the jupyter notebook used for this project.
 ## Data Source:
 https://www.kaggle.com/energykingdom/saudi-arabia-car-prices-machine-learning
 
+## Blog post:
+https://medium.com/@malshedokhi/discovering-the-trends-of-car-sales-in-saudi-arabia-89ebfb503c45
+
 
 
 
