@@ -63,12 +63,5 @@ Here is the schema and explanation of each variable in the files:
 
 **Note:** If you are using the workspace, you will need to go to the terminal and run the command `conda update pandas` before reading in the files. This is because the version of pandas in the workspace cannot read in the transcript.json file correctly, but the newest version of pandas can. You can access the termnal from the orange icon in the top left of this notebook.  
 
-You can see how to access the terminal and how the install works using the two images below.  First you need to access the terminal:
-
-<img src="pic1.png"/>
-
-Then you will want to run the above command:
-
-<img src="pic2.png"/>
-
-Finally, when you enter back into the notebook (use the jupyter icon again), you should be able to run the below cell without any errors.
+### An article that summerize my findings can be found here:
+https://medium.com/@malshedokhi/data-science-starbucks-capstone-challenge-6b567e6f8374
